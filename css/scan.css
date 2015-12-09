@@ -33,7 +33,7 @@ a {
 .bracket {
     width: 100px;
     height: 100px;
-    border: 15px solid rgba(100, 100, 100, 0.5);
+    border: 15px solid rgba(0,255,0,0.3);
 }
 .l {
     float: left;
@@ -55,7 +55,7 @@ a {
     width: 250px;
     height: 250px;
     border-radius: 1000px;
-
+    border: 15px solid rgba(0, 255, 0, 0.3);
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
